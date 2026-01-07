@@ -13,7 +13,7 @@ class AudioManager {
     private static instance: AudioManager;
     private ctx: AudioContext | null = null;
     private masterGain: GainNode | null = null;
-    private ambientOsc: OscillatorNode | null = null;
+
     private isMuted: boolean = false;
 
     private constructor() {
