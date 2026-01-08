@@ -103,7 +103,7 @@ export default function VoidSection() {
                     </a>
 
                     {/* Pumpfun Button */}
-                    <a href="#" className="group relative px-8 h-14 flex items-center gap-3 bg-white border-2 border-[#1a1a1a] hover:bg-[#1a1a1a] transition-all duration-300 shadow-none hover:shadow-lg overflow-hidden">
+                    <a href="https://pump.fun/coin/CKtArYCuwzmxe9kXkFBWCeMsZKNbb7SLuW1B8Mw3pump" className="group relative px-8 h-14 flex items-center gap-3 bg-white border-2 border-[#1a1a1a] hover:bg-[#1a1a1a] transition-all duration-300 shadow-none hover:shadow-lg overflow-hidden">
                         {/* Hover Fill Animation */}
                         <div className="absolute inset-0 bg-[#1a1a1a] translate-y-full group-hover:translate-y-0 transition-transform duration-300 ease-out z-0"></div>
 
