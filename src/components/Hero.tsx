@@ -63,7 +63,7 @@ export default function Hero() {
                             </a>
 
                             {/* Pumpfun Button */}
-                            <a href="#" className="group relative px-8 h-14 flex items-center gap-3 bg-white border-2 border-[#1a1a1a] hover:bg-[#1a1a1a] transition-all duration-300 shadow-[0_0_15px_rgba(0,0,0,0.05)] hover:shadow-none overflow-hidden">
+                            <a href="https://pump.fun/coin/9KWWmLgSbo1vQ9QfamPvY8sMM7LSQknJN8UhFcp2pump" className="group relative px-8 h-14 flex items-center gap-3 bg-white border-2 border-[#1a1a1a] hover:bg-[#1a1a1a] transition-all duration-300 shadow-[0_0_15px_rgba(0,0,0,0.05)] hover:shadow-none overflow-hidden">
                                 {/* Hover Fill Animation */}
                                 <div className="absolute inset-0 bg-[#1a1a1a] translate-y-full group-hover:translate-y-0 transition-transform duration-300 ease-out z-0"></div>
 
